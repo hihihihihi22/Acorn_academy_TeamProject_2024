@@ -16,7 +16,7 @@ This repository owns by Team 1.
 |:---:|:--------------------:|:-----------------------------------------------:|:------------------:|
 |김동우|udong124@gmail.com| [udong124](https://github.com/udong124) | PM & Backend Developer |
 |김민지|minjikim07@naver.com| [catfishlove](https://github.com/catfishlove) | Backend Developer |
-|박소연| rightline1219@gmail.com | [rightline1219](https://github.com/rightline1219) | Frontend Developer |
+|박소연| rightline1219@gmail.com | [rightline1219](https://github.com/hihihihihi22) | Frontend Developer |
 |서찬미| tjcksal627@naver.com | [seochanmi](https://github.com/seochanmi) | Frontend Developer |
 |송민정| min941210@gmail.com | [smj1219](https://github.com/smj1219) | Backend Developer |
 |양유준| a64381543@gmail.com | [YuJun99](https://github.com/YuJun99) | Backend Developer |
